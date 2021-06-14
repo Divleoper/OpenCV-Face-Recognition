@@ -1,4 +1,3 @@
 # OpenCV-Face-Recognition
 
-Open the ML .py file. I suggest you use pycharm, also dont forget to add the xml(s) files to the path. I have given 4 xml(s) files which you can use according to you.
-Don't forget to download the opencv library. If you want to use external camera(s) just change the camera variable.
+First, install the opencv library. I highly suggest using pycharm instead of IDLE. If you want to change the cascade files all the files are available in cascades folder and if you want to change the camera just change the value of the camera variable.
